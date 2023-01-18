@@ -29,4 +29,4 @@ r.interactive()
 
 ```
 
-flag: KCSC{You will maximize yourself when participating in KCSC, G00d_j0b}
+flag: KCSC{Looks like you know how to use that tool, nice hecker}
